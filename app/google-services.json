@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969584137682",
+    "project_id": "mynotes-cec3d",
+    "storage_bucket": "mynotes-cec3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969584137682:android:47b480f6fa9fed2e7ae40b",
+        "android_client_info": {
+          "package_name": "com.ahnaftn.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvL-wxo1-jEqmxzfvn2uLiShB5DsC5R1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
